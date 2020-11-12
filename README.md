@@ -1,4 +1,4 @@
-# vue3tomotomdemo
+# Vue 3 TomTom Demo
 
 ## Project setup
 ```
